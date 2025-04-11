@@ -14,4 +14,3 @@ The project includes:
 - [Netlify Dev](https://www.netlify.com/products/dev) for testing [Netlify redirects](https://netlify.com/docs/redirects/)
 - Serverless (FaaS) development pipeline with [Netlify Functions](https://www.netlify.com/products/functions)
 
-![Portfolio screenshot](./eleventyone-template.jpg)
